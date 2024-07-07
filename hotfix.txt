@@ -1,3 +1,4 @@
 added first commit in hot fix
 
-addede second commit 
+addede second commit
+added 3rd line
